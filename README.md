@@ -7,5 +7,5 @@
 ⚡ Fun fact: constantly thinking about something  
 
 
-Custom unicode fonts are sick
-(https://cdn.discordapp.com/attachments/805892467089211412/916899288796237904/unknown.png)
+Custom unicode fonts are sick  
+![custom unicode inventory](https://cdn.discordapp.com/attachments/805892467089211412/916899288796237904/unknown.png)
