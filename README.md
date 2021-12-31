@@ -8,4 +8,4 @@
 
 
 Custom unicode fonts are sick  
-![custom unicode inventory](https://cdn.discordapp.com/attachments/805892467089211412/916899288796237904/unknown.png)
+![custom unicode inventory](https://cdn.discordapp.com/attachments/812334377840279602/925156949258043412/unknown.png)
